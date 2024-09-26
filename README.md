@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 
 # Dhruv Shah  
 
-## 🎓 Bachelor's in Computer Applications | 📊 Business Analytics graduate | 💻 Web Development loading...
+## 🎓 Bachelor's in Computer Applications | 📊 Business Analytics Graduate | 💻 Web Development loading...
+
+
