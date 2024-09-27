@@ -13,9 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi! I am Dhruv Shah :raising_hand: :bow:
+# Hi! I am Dhruv Shah :raising_hand:
 
 
-## 🎓 Bachelor's in Computer Applications | 📊 Business Analytics Graduate | 💻 Web Development loading...
+## Section for Photo
+
+<!--I am a Web Development student at Humber College with a strong passion for becoming a Web Developer. I have a solid understanding of web design and development, with good knowledge of HTML, CSS, and JavaScript.-->
+### :mortar_board: Degrees: Proof I Survived School :school_satchel:
+
+- Bachelor's in Computer Application :computer:
+- Diploma in Business Analytics (a.k.a. "Data Wizardry 101") :chart_with_upwards_trend:
+
+
 
 
