@@ -22,4 +22,5 @@ Here are some ideas to get you started:
 ### :mortar_board: Degrees: Proof I Survived School :school_satchel:
 
 - Bachelor's in Computer Application :computer:
-- Diploma in Business Analytics (a.k.a. "Data Wizardry 101") :chart_with_upwards_trend:
+- Graduate Certificate in Business Analytics (a.k.a. "Data Wizardry 101") :chart_with_upwards_trend:
+- Graduate Certificate in Web <img src="load-32_128.gif">
