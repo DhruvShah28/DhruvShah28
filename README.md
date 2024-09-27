@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 - Bachelor's in Computer Application :computer:
 - Graduate Certificate in Business Analytics (a.k.a. "Data Wizardry 101") :chart_with_upwards_trend:
-- Graduate Certificate in Web <img src="load-gif.gif" height="10px">
+- Graduate Certificate in Web D<img src="load-gif.gif" height="10px">
