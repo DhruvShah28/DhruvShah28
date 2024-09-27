@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Dhruv Shah  
+# Hi! I am Dhruv Shah :Joy:
+
 
 ## 🎓 Bachelor's in Computer Applications | 📊 Business Analytics Graduate | 💻 Web Development loading...
 
