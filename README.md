@@ -19,8 +19,26 @@ Here are some ideas to get you started:
 ## Section for Photo
 
 <!--I am a Web Development student at Humber College with a strong passion for becoming a Web Developer. I have a solid understanding of web design and development, with good knowledge of HTML, CSS, and JavaScript.-->
+### About Me :smile:
+```js
+///
+
+const Dhruv = {
+    name: "Dhruv Shah",
+    current_role: "Web Development Student at Humber College",
+
+    skills: {
+        languages: ["HTML", "CSS", "JavaScript"],
+        
+    }
+    
+}
+```
+
 ### :mortar_board: Degrees: Proof I Survived School :school_satchel:
 
 - Bachelor's in Computer Application :computer:
 - Graduate Certificate in Business Analytics (a.k.a. "Data Wizardry 101") :chart_with_upwards_trend:
 - Graduate Certificate in Web D<img src="loading-gif-2.gif" height="10px">
+
+
