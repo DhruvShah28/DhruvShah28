@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <!--I am a Web Development student at Humber College with a strong passion for becoming a Web Developer. I have a solid understanding of web design and development, with good knowledge of HTML, CSS, and JavaScript.-->
 ### About Me :smile:
 ```js
-///
+/// Bio
 
 const Dhruv = {
     name: "Dhruv Shah",
@@ -34,6 +34,10 @@ const Dhruv = {
     hobbies: ["Learning new tech", "Turning coffee into code", "Debugging... forever"],
     funFact: "I can center a div... on a good day!"
 }
+alert("Let's build something amazing together! :rocket:");
+
+/// Keep coding, keep growing! 🚀
+export default Dhruv;
 ```
 
 ---
@@ -48,4 +52,4 @@ const Dhruv = {
 
 ### :earth_americas: Find me Around the Web
 
-[<img src="LinkedIn_icon.svg.png" width="50px">](https://www.linkedin.com/in/dhruv-shah-700731208/)
+[<img src="LinkedIn_icon.svg.png" width="50px">](https://www.linkedin.com/in/dhruv-shah-700731208/) [<img src="Stack_Overflow_icon.svg.png" width="50px">](https://stackoverflow.com/users/27194396/dhruv-shah)
