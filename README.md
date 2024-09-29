@@ -42,4 +42,6 @@ const Dhruv = {
 - Graduate Certificate in Web D<img src="loading-gif-2.gif" height="10px">
 
 
-### :mortar_board: Find ne arind the Web
+### :earth_americas: Find me Around the Web
+
+[![Linkedin](LinkedIn_icon.svg.png)](https://www.linkedin.com/in/dhruv-shah-700731208/)
