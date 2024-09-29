@@ -44,4 +44,4 @@ const Dhruv = {
 
 ### :earth_americas: Find me Around the Web
 
-[![Linkedin](LinkedIn_icon.svg.png)](https://www.linkedin.com/in/dhruv-shah-700731208/)
+[<img src="LinkedIn_icon.svg.png" width="50px">](https://www.linkedin.com/in/dhruv-shah-700731208/)
