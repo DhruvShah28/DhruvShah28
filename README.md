@@ -27,9 +27,9 @@ const Dhruv = {
     name: "Dhruv Shah",
     current_role: "Web Development Student at Humber College",
     languages: ["HTML", "CSS", "JavaScript"],
-    
+
     currentlyLearning: "Exploring the world of full-stack development",
-    futureGoals: "Master React.js and Node.js"
+    futureGoals: "Master React.js and Node.js",
 
     hobbies: ["Learning new tech", "Turning coffee into code", "Debugging... forever"],
     funFact: "I can center a div... on a good day!"
