@@ -36,12 +36,15 @@ const Dhruv = {
 }
 ```
 
+---
+
 ### :mortar_board: Degrees: Proof I Survived School
 
 - Bachelor's in Computer Application :computer:
 - Graduate Certificate in Business Analytics (a.k.a. "Data Wizardry 101") :chart_with_upwards_trend:
 - Graduate Certificate in Web D<img src="loading-gif-2.gif" height="10px">
 
+---
 
 ### :earth_americas: Find me Around the Web
 
