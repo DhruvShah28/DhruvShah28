@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Hi! I am Dhruv Shah :raising_hand:
 
 
-## Section for Photo
+![Profile Image](./20241209_135534_0000.png)
 
 <!--I am a Web Development student at Humber College with a strong passion for becoming a Web Developer. I have a solid understanding of web design and development, with good knowledge of HTML, CSS, and JavaScript.-->
 ### About Me :smile:
