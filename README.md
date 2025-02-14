@@ -26,7 +26,9 @@ Here are some ideas to get you started:
 const Dhruv = {
     name: "Dhruv Shah",
     current_role: "Web Development Student at Humber College",
-    languages: ["HTML", "CSS", "JavaScript", "SQL", "C#", "Python", "MongoDB", "ExpressJS", "ReactJS", "Node.JS", "Bootstrap", "JQuery", "Microsoft Suite", "MySQL", "PowerBI"],
+    languages: ["HTML", "CSS", "JavaScript", "SQL", "C#", "Python",
+                "MongoDB", "ExpressJS", "ReactJS", "Node.JS", "Bootstrap",
+                "JQuery", "Microsoft Suite", "MySQL", "PowerBI"],
 
     currentlyLearning: "Exploring the world of full-stack development",
     futureGoals: "Master React.js and Node.js",
