@@ -34,7 +34,7 @@ const Dhruv = {
     hobbies: ["Learning new tech", "Turning coffee into code", "Debugging... forever"],
     funFact: "I can center a div... on a good day!"
 }
-alert("Let's build something amazing together! :rocket:");
+alert("Let's build something amazing together! 🚀");
 
 /// Keep coding, keep growing! 🚀
 export default Dhruv;
